@@ -89,13 +89,14 @@ Este costo puede variar dependiendo del proveedor de los componentes electrónic
 
 - ESP32 DevKit V1
 - Arduino IDE
-- C++
+- MicroPython
 - Git
 - GitHub
 - OLED SSD1306
 - I2C
 - MAX98357
 - INMP441
+-Bocina 4OHMS
 
 ---
 
