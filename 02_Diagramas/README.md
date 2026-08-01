@@ -100,5 +100,3 @@ Universidad:
 **Universidad Tecnológica de México (UNITEC)**
 
 Año: 2026
-
-**2026**
